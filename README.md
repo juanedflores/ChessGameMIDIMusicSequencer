@@ -8,8 +8,8 @@ He even states that "H to denote the key of B is not uncommon in some parts of E
 
 I would like to explore more possibilities one can do with this chessboard format, while also applying the rules of the game, and making collaborative music.
 I am thinking H can represent a percussive element. 
-
-This is the 8x8 Matrix:
+  
+This is the 8x8 Matrix:  
 [A1][B1][C1][D1][E1][F1][G1][H1]  
 [A2][B2][C2][D2][E2][F2][G2][H2]  
 [A3][B3][C3][D3][E3][F3][G3][H3]  
